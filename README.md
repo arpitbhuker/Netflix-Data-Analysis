@@ -58,10 +58,12 @@ The goal is to demonstrate how **data science techniques** can be applied to ent
    git clone https://github.com/your-username/netflix-data-analysis.git
    cd netflix-data-analysis
 2. Install dependencies
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-3. Open the Jupyter Notebook
-jupyter notebook "Netflix Data Analysis.ipynb"
+4. Open the Jupyter Notebook
+   ```bash
+   jupyter notebook "Netflix Data Analysis.ipynb"
 
 
 ## 📚 Future Enhancements
@@ -73,10 +75,7 @@ jupyter notebook "Netflix Data Analysis.ipynb"
 🤖 Predictive modeling for movie ratings
 
 
-## ✨ Author
-
-👤 Arpit Bhuker
-
-🎓 BE CSE (AI/ML) Student | Chandigarh University
-
-🔗 LinkedIn | GitHub
+## ✨ Author  
+👤 **Arpit Bhuker**  
+- 🎓 BE CSE (AI/ML) Student | Chandigarh University  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arpitbhuker/) | [GitHub](https://github.com/arpitbhuker)  
