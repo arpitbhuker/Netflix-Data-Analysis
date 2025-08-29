@@ -52,18 +52,6 @@ The goal is to demonstrate how **data science techniques** can be applied to ent
 
 ---
 
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   cd netflix-data-analysis
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-
-4. Open the Jupyter Notebook
-   ```bash
-   jupyter notebook "Netflix Data Analysis.ipynb"
 
 
 ## 📚 Future Enhancements
